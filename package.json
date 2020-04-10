@@ -1,0 +1,19 @@
+{
+  "name": "bookslistnodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnaPatricia93/BooksListNodeJS.git"
+  },
+  "author": "patricia.d.s.graca@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnaPatricia93/BooksListNodeJS/issues"
+  },
+  "homepage": "https://github.com/AnaPatricia93/BooksListNodeJS#readme"
+}
